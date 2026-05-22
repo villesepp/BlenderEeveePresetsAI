@@ -1,3 +1,4 @@
+<img width="600" height="337" alt="ezgif-51fb90eafdb8fc17" src="https://github.com/user-attachments/assets/3f1f361e-7881-43f2-a89a-195a9f2568c0" />
 
 # Eevee Presets
 
@@ -13,6 +14,8 @@ Instead of manually changing multiple settings every time or switching rendering
 Some rendering modes do not work well with volumetrics, or other objects with transparency, making them not suitable for everyone as a way of increasing viewport performance (FPS).
 
 In some test scenes, switching to Performance mode increased viewport framerate by **10× or more**.
+
+<img width="1543" height="918" alt="fpscomparisonn" src="https://github.com/user-attachments/assets/ecc82d3d-5848-484c-932c-dfb86e2b7d2e" />
 
 ---
 
@@ -79,6 +82,9 @@ No special steps required (do as you would with any other add-on):
 3. Click **Install...**
 4. Select the downloaded file.
 5. Enable **Eevee Presets** add-on.
+
+<img width="863" height="505" alt="fpsinstall" src="https://github.com/user-attachments/assets/8e04e7a7-f1fe-4ec5-a1ab-520d224f7948" />
+
 
 ---
 
