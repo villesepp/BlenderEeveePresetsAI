@@ -21,7 +21,7 @@ In some test scenes, switching to Performance mode increased viewport framerate 
 
 ## Development Note
 
-This was developed with assistance from generative AI for planning, code iteration, debugging, and documentation. The project was manually tested.
+This was developed with assistance from generative AI for planning, code iteration, debugging, and documentation. The project was manually tested in Blender 4.5.5 and 5.1.1.
 
 ---
 
@@ -103,6 +103,11 @@ To customize a preset:
 2. Click **Save Preset**.
 3. Review the highlighted changes.
 4. Confirm the save.
+
+<img width="557" height="320" alt="image" src="https://github.com/user-attachments/assets/56fd9235-0d5d-4095-b5bb-2aa32db2de5b" />
+
+<img width="756" height="546" alt="image" src="https://github.com/user-attachments/assets/fa55741a-9c9c-4ed9-b1e9-3c27af9dab96" />
+
 
 ---
 
